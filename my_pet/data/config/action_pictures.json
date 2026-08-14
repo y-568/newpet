@@ -1,0 +1,46 @@
+{
+    "eat": {
+        "path": "data\\assets\\eat",
+        "type": ".png"
+    },
+    "Standby": {
+        "path": "data\\assets\\Standby",
+        "type": ".png"
+    },
+    "mention": {
+        "path": "data\\assets\\mention",
+        "type": ".png"
+    },
+    "sleep": {
+        "path": "data\\assets\\sleep",
+        "type": ".png"
+    },
+    "love": {
+        "path": "data\\assets\\Love",
+        "type": ".png"
+    },
+    "discomfort": {
+        "path": "data\\assets\\discomfort",
+        "type": ".png"
+    },
+    "left": {
+        "path": "data\\assets\\left",
+        "type": ".png"
+    },
+    "right": {
+        "path": "data\\assets\\right",
+        "type": ".png"
+    },
+    "angry": {
+        "path": "data\\assets\\Angry",
+        "type": ".gif"
+    },
+    "bg": {
+        "path": "data\\assets\\bg",
+        "type": ".png"
+    },
+    "Lovely": {
+        "path": "data\\assets\\Lovely",
+        "type": ".png,.gif"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./my_pet/api/core",
+        "./my_pet/api/minwindow"
+    ]
+}
